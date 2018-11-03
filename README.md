@@ -9,4 +9,7 @@ Questions--->
 5. How much time did it take to generate the money needed.
 6. Top ten categories that earn money much faster and more than they required.
 7. Avg amount each baker pledged.
-8. 
+
+
+Conclusion :-->
+What category? How much money to ask? How much time does it take trend on kickstarter?
